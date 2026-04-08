@@ -1,5 +1,5 @@
 # VxTrace
-<<<<<<< HEAD
+
 
 Metadata investigation toolkit for researchers and analysts.
 
@@ -107,6 +107,4 @@ VxTrace is for defensive, local metadata inspection. It does not bypass encrypti
 ## License
 
 MIT
-=======
-Metadata investigation toolkit
->>>>>>> 4a32863fa460a29acf47af9cccb8b3bb879f923c
+
